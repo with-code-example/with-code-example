@@ -1,0 +1,22 @@
+baseURL = 'https://awesome-blog.netlify.app'
+languageCode = 'en-us'
+title = 'Awesome Blog'
+
+theme = "hugo-blog-awesome"
+
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/awesome-blog"
+
+[[params.socialIcons]]
+    name = "Rss"
+    url = "index.xml"
+
+[params.author]
+  intro = "Awesome Blog"
+  description = "Blog Websites"
+  site_1 = "Awesome Golang"
+  site_1_link = "https://awesome-golang.netlify.app/"
+  site_2 = "Awesome Javascript"
+  site_2_link = "https://awesome-javascript.netlify.app/"
