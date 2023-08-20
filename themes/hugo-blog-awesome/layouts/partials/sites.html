@@ -1,0 +1,6 @@
+{{- range . }}
+<a href="{{ trim .domain " " }}" target="_blank" rel="noopener noreferrer me"
+    title="{{ (.title | default .name) | title }}">
+    {{ (.title | default .name) | title }}
+</a> <br>
+{{- end }}

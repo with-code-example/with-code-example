@@ -1,9 +1,17 @@
-baseURL = 'https://awesome-blog.netlify.app'
+baseURL = 'https://withcodeexample.com/'
 languageCode = 'en-us'
-title = 'Awesome Blog'
+title = 'With Code Example'
+description= "desc"
 
 theme = "hugo-blog-awesome"
 
+[site]
+    title = "Site"
+
+[params]
+    description= "Learn Golang, Javascript, Python with code exaples"
+    sitename = "Learn With Code Example"
+    title = "Golang, Javascript, Python"
 
 [[params.socialIcons]]
     name = "github"
@@ -14,9 +22,32 @@ theme = "hugo-blog-awesome"
     url = "index.xml"
 
 [params.author]
-  intro = "Awesome Blog"
-  description = "Blog Websites"
-  site_1 = "Awesome Golang"
-  site_1_link = "https://awesome-golang.netlify.app/"
-  site_2 = "Awesome Javascript"
-  site_2_link = "https://awesome-javascript.netlify.app/"
+  intro = "With Code Example"
+  description = "Learn Golang, Javascript, Python with Examples"
+
+[[params.sites]]
+  name = "Golang With Code Example"
+  domain = "https://golang.withcodeexample.com/"
+
+[[params.sites]]
+  name = "Javascript With Code Example"
+  domain = "https://javascript.withcodeexample.com/"
+
+[[params.sites]]
+  name = "Python With Code Example"
+  domain = "https://python.withcodeexample.com/"
+
+[[menu.main]]
+    name = "Golang"
+    url = "https://golang.withcodeexample.com/"
+    weight = 1
+
+[[menu.main]]
+    name = "Javascript"
+    url = "https://javascript.withcodeexample.com/"
+    weight = 2
+
+[[menu.main]]
+    name = "Python"
+    url = "https://python.withcodeexample.com/"
+    weight = 2

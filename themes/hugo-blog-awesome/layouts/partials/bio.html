@@ -9,6 +9,5 @@
     {{ end }}
     <h2 class="author-name">{{ .Site.Params.author.intro }}</h2>
     <p class="author-bio">{{ .Site.Params.author.description }}</p> 
-    <a href="{{ .Site.Params.author.site_1_link }}" target="_blank">{{ .Site.Params.author.site_1 }}</a><br>
-    <a href="{{ .Site.Params.author.site_2_link }}" target="_blank">{{ .Site.Params.author.site_2 }}</a>
+    {{- partial "sites.html" site.Params.sites -}}
 </div>
