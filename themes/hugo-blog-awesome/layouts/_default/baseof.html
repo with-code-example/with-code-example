@@ -2,6 +2,9 @@
 <html lang="{{ .Site.LanguageCode }}">
     {{- partial "head.html" . -}}
     <body data-theme = "{{ .Site.Params.defaultColor }}" class="notransition">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MX7STZLX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
         {{- partial "scriptsBodyStart.html" . -}}
         {{- partial "header.html" . -}}
         {{- block "main" . }}{{- end }}
