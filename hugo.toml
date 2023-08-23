@@ -2,8 +2,8 @@ baseURL = 'https://withcodeexample.com/'
 languageCode = 'en-us'
 title = 'With Code Example'
 description= "desc"
-
 theme = "hugo-blog-awesome"
+enableRobotsTXT = true
 
 [site]
     title = "Site"
