@@ -6,20 +6,20 @@ theme = "hugo-blog-awesome"
 enableRobotsTXT = true
 
 [site]
-    title = "Site"
+  title = "Site"
 
 [params]
-    description= "Learn Golang, Javascript, Python with code exaples"
-    sitename = "Learn With Code Example"
-    title = "Golang, Javascript, Python"
+  description= "Learn Golang, Javascript, Python with code examples"
+  sitename = "With Code Example"
+  title = "Golang, Javascript, Python"
 
 [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/awesome-blog"
+  name = "github"
+  url = "https://github.com/awesome-blog"
 
 [[params.socialIcons]]
-    name = "Rss"
-    url = "index.xml"
+  name = "Rss"
+  url = "index.xml"
 
 [params.author]
   intro = "With Code Example"
@@ -38,16 +38,16 @@ enableRobotsTXT = true
   domain = "https://python.withcodeexample.com/"
 
 [[menu.main]]
-    name = "Golang"
-    url = "https://golang.withcodeexample.com/"
-    weight = 1
+  name = "Golang"
+  url = "https://golang.withcodeexample.com/"
+  weight = 1
 
 [[menu.main]]
-    name = "Javascript"
-    url = "https://javascript.withcodeexample.com/"
-    weight = 2
+  name = "Javascript"
+  url = "https://javascript.withcodeexample.com/"
+  weight = 2
 
 [[menu.main]]
-    name = "Python"
-    url = "https://python.withcodeexample.com/"
-    weight = 2
+  name = "Python"
+  url = "https://python.withcodeexample.com/"
+  weight = 2
