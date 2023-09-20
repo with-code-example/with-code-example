@@ -50,4 +50,9 @@ enableRobotsTXT = true
 [[menu.main]]
   name = "Python"
   url = "https://python.withcodeexample.com/"
-  weight = 2
+  weight = 3
+
+[[menu.main]]
+  name = "Courses"
+  url = "https://courses.withcodeexample.com/"
+  weight = 4

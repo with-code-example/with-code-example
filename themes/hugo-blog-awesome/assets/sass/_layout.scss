@@ -44,7 +44,6 @@
 
 // List of posts
 .post-item {
-  display: flex;
   padding-top: 5px;
   padding-bottom: 6px;
   justify-content: space-between;
@@ -252,3 +251,10 @@ mark {
   color: #000;
   border-radius: 3px;
 }
+.text-right{
+  text-align: right;
+}
+.text-center{
+  text-align: center;
+}
+a{ text-decoration: none;}
