@@ -1,8 +1,8 @@
 ---
-Title: Top 7 UI Libraries for React.js
-Subtitle: Create Stunning User Interfaces with These React.js UI Libraries/Frameworks
-Meta Description: Discover the top 7 UI libraries and frameworks that seamlessly integrate with React.js, making it easier than ever to create visually appealing and responsive web applications. Stay up to date with the latest trends in the dynamic world of React.js UI development.
-Slug: top-7-react-ui-libraries
+title: Top 7 UI Libraries for React.js
+subtitle: Create Stunning User Interfaces with These React.js UI Libraries/Frameworks
+description: Discover the top 7 UI libraries and frameworks that seamlessly integrate with React.js, making it easier than ever to create visually appealing and responsive web applications. Stay up to date with the latest trends in the dynamic world of React.js UI development.
+slug: top-7-react-ui-libraries
 tags: [javascript, reactjs, top]
 featured_image: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_60_bold:Top%207%20UI%20Libraries%20for%20React.js,co_rgb:fff/javascriptwithexample/bg2.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_60_bold:Top%207%20UI%20Libraries%20for%20React.js,co_rgb:fff/javascriptwithexample/bg2.png
