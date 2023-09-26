@@ -4,9 +4,9 @@
             <a href="{{ .RelPermalink }}">{{ .Title }}  </a>
         {{ else }}
             {{ if strings.Contains .RelPermalink "/golang/" }}
-                <a href="https://golang.withcodeexample.com/blog/{{ .Slug }}">{{ .Title }} </a>
+                <a href="https://golang.withcodeexample.com/blog/{{ .Slug }}?utm_source=home&utm_medium=title">{{ .Title }} </a>
             {{ else if strings.Contains .RelPermalink "/javascript/" }}
-            <a href="https://javascript.withcodeexample.com/blog/{{ .Slug }}">{{ .Title }} </a>
+            <a href="https://javascript.withcodeexample.com/blog/{{ .Slug }}?utm_source=home&utm_medium=title">{{ .Title }} </a>
             {{ end }}
         {{ end }}
     </h3>
@@ -15,9 +15,9 @@
             <a href="{{ .RelPermalink }}">Read More </a>
         {{ else }}
             {{ if strings.Contains .RelPermalink "/golang/" }}
-                <a href="https://golang.withcodeexample.com/blog/{{ .Slug }}">Read More</a>
+                <a href="https://golang.withcodeexample.com/blog/{{ .Slug }}?utm_source=home&utm_medium=read_more">Read More</a>
             {{ else if strings.Contains .RelPermalink "/javascript/" }}
-            <a href="https://javascript.withcodeexample.com/blog/{{ .Slug }}">Read More</a>
+            <a href="https://javascript.withcodeexample.com/blog/{{ .Slug }}?utm_source=home&utm_medium=read_more">Read More</a>
             {{ end }}
         {{ end }}
     </b></div>
