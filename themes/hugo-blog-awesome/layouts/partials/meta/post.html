@@ -29,6 +29,12 @@
     <meta property="article:section" content="{{ index . 0 }}" />
     {{ end }}
 
+    {{ if strings.Contains .Permalink "/golang/" }}
+        <link rel="canonical" href="https://golang.withcodeexample.com/blog/{{ .Slug }}" />
+    {{ else if strings.Contains .Permalink "/javascript/" }}
+        <link rel="canonical" href="https://javascript.withcodeexample.com/blog/{{ .Slug }}" />
+    {{ end }}
+
     <script defer type="application/ld+json">
     {
         "@context": "http://schema.org",

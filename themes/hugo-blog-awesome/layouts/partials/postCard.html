@@ -1,8 +1,26 @@
 <article class="post-item">
     <h3>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ if and (not (strings.Contains .RelPermalink "/golang/")) (not (strings.Contains .RelPermalink "/javascript/")) }}
+            <a href="{{ .RelPermalink }}">{{ .Title }}  </a>
+        {{ else }}
+            {{ if strings.Contains .RelPermalink "/golang/" }}
+                <a href="https://golang.withcodeexample.com/blog/{{ .Slug }}">{{ .Title }} </a>
+            {{ else if strings.Contains .RelPermalink "/javascript/" }}
+            <a href="https://javascript.withcodeexample.com/blog/{{ .Slug }}">{{ .Title }} </a>
+            {{ end }}
+        {{ end }}
     </h3>
-    <div>{{ .Description }} <b><a href="{{ .RelPermalink }}">Read More</a></b></div>
+    <div>{{ .Description }} <b>
+        {{ if and (not (strings.Contains .RelPermalink "/golang/")) (not (strings.Contains .RelPermalink "/javascript/")) }}
+            <a href="{{ .RelPermalink }}">Read More </a>
+        {{ else }}
+            {{ if strings.Contains .RelPermalink "/golang/" }}
+                <a href="https://golang.withcodeexample.com/blog/{{ .Slug }}">Read More</a>
+            {{ else if strings.Contains .RelPermalink "/javascript/" }}
+            <a href="https://javascript.withcodeexample.com/blog/{{ .Slug }}">Read More</a>
+            {{ end }}
+        {{ end }}
+    </b></div>
     {{/* format date string to create an ISO 8601 string */}}
     {{ $ISO_date := "2006-01-02T15:04:05Z0700" }}
     <div class="text-right">
