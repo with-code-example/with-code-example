@@ -11,8 +11,6 @@ date: 2023-08-30
 toc: true
 draft: false
 series: [React Js Course]
-audio: https://with-code-example.s3.ap-south-1.amazonaws.com/blog/react-event-handling-guide.8b6ac376-eb67-4e1f-9717-60a20b875dfa.mp3
-canonical_url: https://courses.withcodeexample.com/course/react-js/event-handling/
 ---
 
 Event handling in React is how you manage and respond to user interactions within your components. React's event handling system is similar to handling events in traditional HTML, but with some differences due to React's virtual DOM and component-based architecture. Here's an overview of how event handling works in React:

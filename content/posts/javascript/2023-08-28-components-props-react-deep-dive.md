@@ -11,8 +11,6 @@ date: 2023-08-28
 toc: true
 draft: false
 series: [React Js Course]
-audio: https://res.cloudinary.com/harendra21/video/upload/v1693477885/javascriptwithexample/components-props-react-deep-dive_mlsfvy.wav
-canonical_url: https://courses.withcodeexample.com/course/react-js/components-and-props/
 ---
 
 Functional components and class components are two different ways to define and work with components in React, a popular JavaScript library for building user interfaces. While both approaches achieve the same goal of creating reusable UI elements, there are some differences in how they are structured and used.

@@ -11,8 +11,6 @@ date: 2023-08-27
 toc: true
 draft: false
 series: [React Js Course]
-audio: https://res.cloudinary.com/harendra21/video/upload/v1693476809/javascriptwithexample/react-getting-started_aghlhc.wav
-canonical_url: https://courses.withcodeexample.com/course/react-js/getting-started/
 ---
 
 Getting started with React involves setting up your development environment, creating a basic React application, and understanding the core concepts of React. Here's a step-by-step guide to help you get started:

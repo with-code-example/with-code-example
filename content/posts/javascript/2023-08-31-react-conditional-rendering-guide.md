@@ -10,9 +10,6 @@ comments: true
 date: 2023-08-31
 toc: true
 draft: false
-series: [React Js Course]
-audio: https://with-code-example.s3.ap-south-1.amazonaws.com/blog/react-conditional-rendering-guide.9e3882fd-ad01-4954-9258-057993778485.mp3
-canonical_url: https://courses.withcodeexample.com/course/react-js/conditional-rendering/
 ---
 
 Conditional rendering is a technique in React that allows you to conditionally render different content or components based on certain conditions or states. It's a powerful way to create dynamic user interfaces that respond to user interactions or changing data. There are multiple ways to achieve conditional rendering in React:

@@ -11,8 +11,6 @@ date: 2023-08-26
 toc: true
 draft: false
 series: [React Js Course]
-audio: https://res.cloudinary.com/harendra21/video/upload/v1693476812/javascriptwithexample/react-js-introduction_srjve4.wav
-canonical_url: https://courses.withcodeexample.com/course/react-js/introduction/
 ---
 
 In the world of web development, creating interactive and responsive user interfaces is paramount. This is where React.js comes into play. React.js, often referred to as React, is an open-source JavaScript library maintained by Facebook. It's designed to simplify the process of building user interfaces, making it efficient and enjoyable for developers to create dynamic web applications. React.js is especially popular for its component-based architecture and the way it handles the rendering of UI elements.

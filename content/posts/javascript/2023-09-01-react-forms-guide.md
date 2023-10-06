@@ -10,9 +10,6 @@ comments: true
 date: 2023-09-01
 toc: true
 draft: false
-series: [React Js Course]
-audio: https://with-code-example.s3.ap-south-1.amazonaws.com/blog/react-forms-guide.e5173e30-4b47-42e2-8967-00e826e297e4.mp3
-canonical_url: https://courses.withcodeexample.com/course/react-js/forms/
 ---
 
 Creating forms in React involves building user interfaces for collecting and processing user input. React provides a convenient way to handle form elements and their values using state and event handling. Here's how you can create forms in React:

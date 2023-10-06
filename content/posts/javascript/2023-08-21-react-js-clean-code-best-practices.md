@@ -7,9 +7,9 @@ featured_image: https://res.cloudinary.com/harendra21/image/upload/w_1200/javasc
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/javascriptwithexample/React_JS_Clean_Code_Guide_l3cv4e.png
 comments: true
 date: 2023-08-21
-toc: flase
+toc: true
 draft: false
-audio: "https://res.cloudinary.com/harendra21/video/upload/v1693418817/javascriptwithexample/react-js-clean-code-guide_fm8kdn.wav"
+audio: "https://with-code-example.s3.ap-south-1.amazonaws.com/blog/react-js-clean-code-guide.bf896d72-0863-4e90-8cc0-64d054ab4cf8.mp3"
 ---
 
 React.js has revolutionized front-end development by providing a powerful and efficient way to build user interfaces. However, as your React application grows in complexity, maintaining clean, readable, and maintainable code becomes crucial. In this guide, we'll explore best practices for writing clean React.js code that not only works but is also easy to understand and maintain.
