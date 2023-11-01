@@ -4,8 +4,8 @@ subtitle: Fine-Tuning Your Go Code for Peak Performance
 description: Explore essential performance considerations and optimization techniques in Go, including profiling concurrent code, identifying bottlenecks, and implementing load balancing and scalability strategies.
 slug: performance-optimization-go
 tags: [golang, concurrency]
-featured_image: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_45_bold:Performance%20Considerations%20and%20Optimization%20in%20Go,co_rgb:fff/golangwithexample/bg_bczwj8.png
-thumbnail: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_45_bold:Performance%20Considerations%20and%20Optimization%20in%20Go,co_rgb:fff/golangwithexample/bg_bczwj8.png
+featured_image: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_40_bold:Performance%20Considerations%20and%20Optimization%20in%20Go,co_rgb:fff/golangwithexample/bg_bczwj8.png
+thumbnail: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_40_bold:Performance%20Considerations%20and%20Optimization%20in%20Go,co_rgb:fff/golangwithexample/bg_bczwj8.png
 comments: true
 date: 2023-10-10
 toc: true
