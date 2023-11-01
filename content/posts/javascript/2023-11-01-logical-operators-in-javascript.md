@@ -1,7 +1,7 @@
 ---
 title: Understanding Logical Operators in JavaScript
-subtitle: Making Decisions and Evaluating Conditions description: Learn about the key logical operators in JavaScript, including AND, OR, NOT, XOR, short-circuit evaluation, and the ternary operator.
-slug: logical-operators-in-javascript
+subtitle: "Making Decisions and Evaluating Conditions description: Learn about the key logical operators in JavaScript, including AND, OR, NOT, XOR, short-circuit evaluation, and the ternary operator."
+slug: "logical-operators-in-javascript"
 tags: [javascript]
 featured_image: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_50_bold:Logical%20Operators%20in%20JavaScript,co_rgb:fff/javascriptwithexample/bg6.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_50_bold:Logical%20Operators%20in%20JavaScript,co_rgb:fff/javascriptwithexample/bg6.png
