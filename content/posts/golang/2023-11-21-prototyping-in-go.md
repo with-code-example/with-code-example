@@ -3,7 +3,7 @@ title: "Prototyping with Go: Accelerating Your Development Process"
 subtitle: Harnessing Go (Golang) for Rapid Concept Testing and Validation
 description: Discover how Go, a statically typed and efficient language, can streamline your prototyping process. This article explores the advantages of using Go for creating prototypes, with practical examples in web development.
 slug: go-prototyping-accelerated-development
-tags: [golang
+tags: [golang]
 featured_image: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_65_bold:Prototyping%20with%20Go,co_rgb:fff/golangwithexample/bg5.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_65_bold:Prototyping%20with%20Go,co_rgb:fff/golangwithexample/bg5.png
 comments: true
