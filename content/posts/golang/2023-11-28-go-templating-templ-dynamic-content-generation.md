@@ -13,16 +13,15 @@ draft: false
 
 ---
 
-
 Dynamic content generation is a fundamental aspect of web development. Whether you're building a website, web application, or API, the ability to generate dynamic content based on data and templates is crucial. In the world of Go programming, a powerful tool called "Templ" simplifies this process. In this comprehensive guide, we will explore Go templating using Templ, its key features, practical examples, and how it streamlines dynamic content generation in your Go projects.
 
-## **Understanding Templ and Go Templating**
+## Understanding Templ and Go Templating
 
 Templ is a Go package that provides a lightweight and efficient templating engine. It is inspired by the popular Go templating package, "text/template," and aims to enhance its capabilities while maintaining simplicity and performance. Templ is designed to work seamlessly with Go applications, making it an excellent choice for dynamic content generation.
 
 Go templating is a technique that involves creating templates with placeholders for dynamic data. These templates are then processed to replace the placeholders with actual data, resulting in a final, rendered output. Templ provides a straightforward way to achieve this in your Go projects.
 
-## **Key Features of Templ**
+## Key Features of Templ
 
 Before diving into practical examples, let's explore some of the key features that make Templ a valuable tool for dynamic content generation in Go:
 
@@ -40,7 +39,7 @@ Before diving into practical examples, let's explore some of the key features th
 
 Now, let's delve into practical examples to see how Templ simplifies dynamic content generation in Go.
 
-## **Basic Templating with Templ**
+## Basic Templating with Templ
 
 To get started with Templ, you need to install the package, and you can do so using the following command:
 
@@ -90,7 +89,7 @@ func main() {
 
 In this example, we create a Templ instance, define a simple template with a placeholder for the user's name, and then render the template with data. The result is a greeting message that incorporates the user's name.
 
-## **Advanced Templating with Conditionals**
+## Advanced Templating with Conditionals
 
 Templ allows you to use conditional statements within your templates. Let's create a more complex example that greets the user differently based on the time of day.
 
@@ -147,7 +146,7 @@ func isMorning() bool {
 
 In this example, we introduce a conditional statement in the template to determine whether it's morning or not. The `isMorning` function checks the current time to determine if it's morning. The template then greets the user accordingly.
 
-## **Using Loops in Templates**
+## Using Loops in Templates
 
 Another powerful feature of Templ is its support for loops. Let's create an example that generates a list of items from a slice.
 
@@ -198,7 +197,7 @@ func main() {
 
 In this example, we use the `{{range}}` construct in the template to iterate over a slice of items and generate a list.
 
-## **Custom Functions in Templates**
+## Custom Functions in Templates
 
 Templ allows you to define custom functions and use them in your templates. Let's create a custom function to capitalize the first letter of a word and use it in a greeting template.
 
@@ -248,7 +247,7 @@ func main() {
 
 In this example, we define a custom function called `capitalize`, which capitalizes the first letter of a string. We then use this function in the template to greet the user with a capitalized name.
 
-## **Template Inheritance and Modularization**
+## Template Inheritance and Modularization
 
 Templ supports template inheritance and modularization, allowing you to create reusable templates and extend them in a structured manner. Let's create a base template and extend it with a child template.
 

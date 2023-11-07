@@ -15,7 +15,7 @@ draft: false
 
 It's challenging to provide a definitive list of the "top 10" Go (Golang) code snippets, as the usefulness of code snippets depends on the specific problem you're trying to solve. However, I can provide you with ten commonly used Go code snippets that cover a range of tasks and concepts:
 
-## 1. **Hello World:**
+## 1. Hello World:
    
    ```go
    package main
@@ -27,7 +27,7 @@ It's challenging to provide a definitive list of the "top 10" Go (Golang) code s
    }
    ```
 
-## 2. **Reading Input from Console:**
+## 2. Reading Input from Console:
    ```go
    package main
 
@@ -46,7 +46,7 @@ It's challenging to provide a definitive list of the "top 10" Go (Golang) code s
    }
    ```
 
-## 3. **Creating a Goroutine:**
+## 3. Creating a Goroutine:
    ```go
    package main
 
@@ -68,7 +68,7 @@ It's challenging to provide a definitive list of the "top 10" Go (Golang) code s
    }
    ```
 
-## 4. **Working with Slices:**
+## 4. Working with Slices:
    ```go
    package main
 
@@ -82,7 +82,7 @@ It's challenging to provide a definitive list of the "top 10" Go (Golang) code s
    }
    ```
 
-## 5. **Error Handling:**
+## 5. Error Handling:
    ```go
    package main
 
@@ -108,7 +108,7 @@ It's challenging to provide a definitive list of the "top 10" Go (Golang) code s
    }
    ```
 
-## 6. **HTTP Server:**
+## 6. HTTP Server:
    ```go
    package main
 
@@ -127,7 +127,7 @@ It's challenging to provide a definitive list of the "top 10" Go (Golang) code s
    }
    ```
 
-## 7. **JSON Marshalling and Unmarshalling:**
+## 7. JSON Marshalling and Unmarshalling:
    ```go
    package main
 
@@ -154,7 +154,7 @@ It's challenging to provide a definitive list of the "top 10" Go (Golang) code s
    }
    ```
 
-## 8. **Concurrency with Wait Groups:**
+## 8. Concurrency with Wait Groups:
    ```go
    package main
 
@@ -179,7 +179,7 @@ It's challenging to provide a definitive list of the "top 10" Go (Golang) code s
    }
    ```
 
-## 9. **Reading and Writing Files:**
+## 9. Reading and Writing Files:
    ```go
    package main
 
@@ -204,7 +204,7 @@ It's challenging to provide a definitive list of the "top 10" Go (Golang) code s
    }
    ```
 
-## 10. **Sorting Slices:**
+## 10. Sorting Slices:
     ```go
     package main
 
