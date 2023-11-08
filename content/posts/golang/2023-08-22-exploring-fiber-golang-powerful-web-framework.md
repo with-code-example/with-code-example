@@ -14,6 +14,8 @@ draft: false
 
 In the ever-evolving landscape of web development, choosing the right framework can significantly impact the efficiency and success of your projects. Enter Fiber, an impressive web framework for the Go (Golang) programming language. Known for its lightning-fast performance and robust features, Fiber Golang has emerged as a popular choice among developers looking to build high-performance web applications. In this article, we will delve into the world of Fiber, exploring its unique attributes and understanding why it has garnered such attention within the Go ecosystem.
 
+[Fiber Golang Series](https://golang.withcodeexample.com/series/fiber-golang/)
+
 ## Understanding the Need for Efficient Web Frameworks
 
 ![ Web Frameworks](https://www.pixelcrayons.com/blog/wp-content/uploads/2019/05/Web-Development-Frameworks.jpg)
