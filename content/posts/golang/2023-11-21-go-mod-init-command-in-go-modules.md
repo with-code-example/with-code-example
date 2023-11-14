@@ -7,7 +7,7 @@ tags: [golang]
 featured_image: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_45_bold:go%20mod%20init%20Command%20in%20Go,co_rgb:fff/golangwithexample/bg2.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_45_bold:go%20mod%20init%20Command%20in%20Go,co_rgb:fff/golangwithexample/bg2.png
 comments: true
-date: 2023-11-14
+date: 2023-11-21
 toc: false
 draft: false
 ---

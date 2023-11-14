@@ -7,7 +7,7 @@ tags: [golang]
 featured_image: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_65_bold:Go%20Templating%20using%20Templ,co_rgb:fff/golangwithexample/bg3.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_65_bold:Go%20Templating%20using%20Templ,co_rgb:fff/golangwithexample/bg3.png
 comments: true
-date: 2023-11-28
+date: 2023-12-07
 toc: true
 draft: false
 

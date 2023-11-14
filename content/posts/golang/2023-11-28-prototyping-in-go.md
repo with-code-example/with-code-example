@@ -7,7 +7,7 @@ tags: [golang]
 featured_image: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_65_bold:Prototyping%20with%20Go,co_rgb:fff/golangwithexample/bg5.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_65_bold:Prototyping%20with%20Go,co_rgb:fff/golangwithexample/bg5.png
 comments: true
-date: 2023-11-21
+date: 2023-11-28
 toc: true
 draft: false
 
