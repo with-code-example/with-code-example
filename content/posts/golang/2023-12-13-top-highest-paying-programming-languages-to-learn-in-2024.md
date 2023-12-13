@@ -8,7 +8,7 @@ featured_image: https://res.cloudinary.com/harendra21/image/upload/w_1200/golang
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/golangwithexample/0_BVNpOxVwNmy-LPxX_zmuw9g.png
 comments: true
 date: 2023-12-13
-toc: true
+toc: false
 draft: false
 
 ---
