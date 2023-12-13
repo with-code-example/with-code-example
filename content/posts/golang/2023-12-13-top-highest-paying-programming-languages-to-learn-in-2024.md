@@ -13,7 +13,7 @@ draft: false
 
 ---
 
-## 1. Python -
+## 1. Python
 
 Python is one of the most popular and versatile languages. It’s commonly used for web development, data science, machine learning, and more.
 
@@ -35,7 +35,7 @@ So in summary — data science, web development, automation, scientific comp
 Average salary of $105,000.
 
 
-## 2. Java -
+## 2. Java
 
 Java is one of the most widely used programming languages. It’s commonly used for backend web development, Android app development, and enterprise applications.
 
@@ -53,7 +53,7 @@ Here are some key things to know about Java and its common use cases:
 
 Average salary of $100,000.
 
-## 3. C# -
+## 3. C#
 
 C# is a popular Microsoft-backed language commonly used for Windows desktop and mobile apps, Unity game development, and backend web development with .NET.
 
@@ -72,7 +72,7 @@ Here are the key things to know about C# programming and its common use cases:
 
 Average salary of $95,000.
 
-## 4. C++ -
+## 4. C++
 
 C++ is a lower-level systems programming language commonly used for performance-critical applications like games, operating systems, drivers, and embedded systems.
 
@@ -93,7 +93,7 @@ Here are the key things to know about C++ and its common use cases:
 
 Average salary of $92,000.
 
-## 5. JavaScript -
+## 5. JavaScript
 
 JavaScript is the main programming language of the web. It’s commonly used for frontend web development and Node.js backend development.
 
@@ -113,7 +113,7 @@ Here are the key things to know about JavaScript and its common use cases:
 
 Average salary of $90,000.
 
-## 6. PHP -
+## 6. PHP
 
 PHP is a popular server-side scripting language commonly used for building content management systems and other database-driven websites.
 
@@ -133,7 +133,7 @@ Here are the key things to know about PHP and its common use cases:
 
 Average salary of $85,000.
 
-## 7. Swift -
+## 7. Swift
 
 Swift is Apple’s primary programming language for building iOS and macOS apps. It’s an increasingly popular choice.
 
@@ -152,7 +152,7 @@ Here are the key things to know about Swift and its common use cases:
 
 Average salary of $83,000.
 
-## 8. R -
+## 8. R
 
 R is a statistical programming language commonly used for data analysis, visualization, and machine learning. It’s popular in fields like science, research, and finance.
 
@@ -171,7 +171,7 @@ Here are the key things to know about R programming language and its common use 
 
 Average salary of $80,000.
 
-## 9. Go -
+## 9. Go
 
 Go (also called Golang) is a systems programming language developed by Google. It’s commonly used for building microservices, networking tools, and other backend applications.
 
@@ -190,7 +190,7 @@ Here are the key things to know about Go programming language and its common use
 
 Average salary of $78,000.
 
-## 10. Scala -
+## 10. Scala
 
 Scala is a functional programming language that runs on the Java Virtual Machine (JVM). It’s commonly used for big data processing, machine learning, and backend web development.
 
