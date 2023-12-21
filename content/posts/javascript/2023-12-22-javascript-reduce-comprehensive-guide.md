@@ -1,9 +1,8 @@
-
 ---
 title: "JavaScript Reduce: A Comprehensive Guide"
-subtitle: Transform Your Array Manipulation Skills with In-Depth Insights, Practical Examples, and Best Practices
-description: "Embark on a journey through the intricacies of JavaScript reduce method, a versatile tool for array manipulation.
-slug: javascript-reduce-comprehensive-guide"
+subtitle: "Transform Your Array Manipulation Skills with In-Depth Insights, Practical Examples, and Best Practices"
+description: "Embark on a journey through the intricacies of JavaScript reduce method, a versatile tool for array manipulation."
+slug: "javascript-reduce-comprehensive-guide"
 tags: [JavaScript, Array Manipulation, Reduce Method, Programming, Coding, Best Practices, Practical Examples, Web Development, Software Engineering]
 featured_image: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_50_bold:Javascript%20Reduce,co_rgb:fff/javascriptwithexample/bg3.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_50_bold:Javascript%20Reduce,co_rgb:fff/javascriptwithexample/bg3.png
