@@ -2,8 +2,8 @@
 title: "Golang Redis: Building Efficient and Scalable Applications"
 subtitle: Unlock the Synergies of Lightning-Fast Data Storage with Redis and Seamless Integration in Golang
 description: This guide covers Redis fundamentals, easy Docker Compose installation, and in-depth integration with Golang.
-slug: redis-golang-efficient-scalable-apps-guide
-tags: [golang]
+slug: redis-golang
+tags: [golang, redis]
 featured_image: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_75_bold:Golang%20Redis,co_rgb:fff/golangwithexample/bg5.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_75_bold:Golang%20Redis,co_rgb:fff/golangwithexample/bg5.png
 comments: true
