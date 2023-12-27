@@ -3,9 +3,9 @@ title: "Understanding `go mod init`"
 slug: "go-mod-init-dependency-management-go"
 description: "Learn how to use the `go mod init` command to create a new Go module and manage dependencies in your Go (Golang) projects."
 subtitle: "A Comprehensive Guide to Initializing Go Modules and Managing Dependencies"
-tags: [javascript, reactjs, top]
-featured_image: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_50_bold:Top%2010%20Handy%20React.js%20Code%20Snippets,co_rgb:fff/golangwithexample/bg4.png
-thumbnail: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_50_bold:Top%2010%20Handy%20React.js%20Code%20Snippets,co_rgb:fff/golangwithexample/bg4.png
+tags: [golang, go]
+featured_image: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_50_bold:Understanding%20%60go%20mod%20init%60,co_rgb:fff/golangwithexample/bg4.png
+thumbnail: https://res.cloudinary.com/harendra21/image/upload/l_text:Roboto_50_bold:Understanding%20%60go%20mod%20init%60,co_rgb:fff/golangwithexample/bg4.png
 comments: true
 date: 2023-09-29
 toc: true
