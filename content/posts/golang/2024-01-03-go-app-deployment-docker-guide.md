@@ -48,6 +48,8 @@ This code sets up a basic HTTP server that responds with "Hello World" and dynam
 
 ## Creating Your Dockerfile
 
+![dockerfile](https://res.cloudinary.com/harendra21/image/upload/v1704300713/golangwithexample/w203qkq2umde2wgc0uej_pv9lsg.jpg)
+
 The next step is to create a Dockerfile that defines the environment for building and running your Go application.
 
 ```Dockerfile
@@ -73,6 +75,8 @@ Breaking down the Dockerfile:
 
 ## Building and Running the Container
 
+![Running the Container](https://res.cloudinary.com/harendra21/image/upload/v1704300753/golangwithexample/image-2-1024x629_w2lwzc.png)
+
 Assuming you have the Docker runtime environment installed, follow these steps:
 
 1. Build the Docker image:
@@ -94,6 +98,8 @@ Here, we instruct Docker to run a new container, bind the host port 3030 to the 
 Visit `localhost:3030` in your browser, and you should see the text "Hello World from path: /". To stop the container, press `Ctrl + C`.
 
 ## Docker Compose for Orchestration
+
+![Docker Compose](https://res.cloudinary.com/harendra21/image/upload/v1704300794/golangwithexample/docker-compose-button_zpc6vy.jpg)
 
 Docker Compose allows the integration of multiple containers. While it might be overkill for this exercise, it's valuable knowledge for future scenarios. Create a `docker-compose.yml` file:
 
@@ -130,3 +136,5 @@ Notice that we never installed Go in our local environment. By only installing D
 ## Summary
 
 We've successfully configured a Dockerfile to build images and run containers with the necessary environment for Go applications. Additionally, a Docker Compose definition file allows us to run containers alongside other services seamlessly when needed.
+
+![thank you](https://res.cloudinary.com/harendra21/image/upload/w_500/golangwithexample/blog-2020-04-07-how_to_say_thank_you_in_business_i69dkn.png)

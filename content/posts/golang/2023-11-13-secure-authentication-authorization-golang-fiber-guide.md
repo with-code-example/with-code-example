@@ -219,3 +219,6 @@ In this comprehensive guide, we've explored the intricacies of implementing auth
 Security is an ever-evolving landscape, and staying informed about best practices and emerging technologies is crucial. As you integrate authentication and authorization into your GoLang Fiber applications, consider regularly updating your security measures to address new challenges and vulnerabilities.
 
 By embracing these security practices and leveraging the capabilities of GoLang Fiber, you can confidently develop web applications that not only meet the demands of today's digital world but also prioritize the privacy and security of your users. Safeguard your applications, build with confidence, and create web experiences that users can trust.
+
+
+![thank you](https://res.cloudinary.com/harendra21/image/upload/w_500/golangwithexample/blog-2020-04-07-how_to_say_thank_you_in_business_i69dkn.png)

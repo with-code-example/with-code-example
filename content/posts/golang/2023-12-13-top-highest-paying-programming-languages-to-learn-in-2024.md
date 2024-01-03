@@ -210,3 +210,6 @@ Here are some of the main uses of the Python programming language:
 So in summary — data science, web development, automation, scientific computing are some of the major domains where Python shines.
 
 Average salary of $105,000.
+
+
+![thank you](https://res.cloudinary.com/harendra21/image/upload/w_500/golangwithexample/blog-2020-04-07-how_to_say_thank_you_in_business_i69dkn.png)

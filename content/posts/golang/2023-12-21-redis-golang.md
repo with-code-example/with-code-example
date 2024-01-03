@@ -185,3 +185,7 @@ We've negotiated the terrain of Golang with Redis integration in this comprehens
 Consider the various options that Golang and Redis provide as you begin on your path of Golang and Redis exploration—from real-time analytics to distributed locking. The collaboration of Golang with Redis allows for the development of resilient, scalable, and high-performance applications.
 
 May your Golang and Redis adventures be fruitful, and may your code serve as a monument to the harmonic balance between simplicity and efficiency in modern application development. Have fun coding!
+
+
+
+![thank you](https://res.cloudinary.com/harendra21/image/upload/w_500/golangwithexample/blog-2020-04-07-how_to_say_thank_you_in_business_i69dkn.png)

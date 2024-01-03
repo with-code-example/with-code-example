@@ -167,3 +167,7 @@ As you integrate GORM hooks into your projects, consider the specific requiremen
 
 Mastering GORM hooks allows you to orchestrate your database interactions with precision, making your GoLang applications more adaptable and responsive to your unique business logic and requirements. May your GORM hooks be both robust and elegant as you navigate the ever-evolving landscape of GoLang development.
 
+
+
+
+![thank you](https://res.cloudinary.com/harendra21/image/upload/w_500/golangwithexample/blog-2020-04-07-how_to_say_thank_you_in_business_i69dkn.png)

@@ -316,3 +316,6 @@ Go templating using Templ provides an efficient and accessible way to generate d
 As you explore Go templating with Templ, you'll find it to be a versatile tool that can be seamlessly integrated into various Go applications. It simplifies the process of creating dynamic templates, making it easier to generate content based on data.
 
 With the ability to use conditionals, loops, custom functions, and modular templates, you can achieve sophisticated dynamic content generation in a structured and maintainable manner. Embrace the power of Templ in your Go projects and experience the benefits of efficient and elegant templating.
+
+
+![thank you](https://res.cloudinary.com/harendra21/image/upload/w_500/golangwithexample/blog-2020-04-07-how_to_say_thank_you_in_business_i69dkn.png)

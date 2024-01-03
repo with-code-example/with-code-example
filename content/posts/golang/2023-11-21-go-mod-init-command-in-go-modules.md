@@ -67,3 +67,6 @@ The `go mod init` command is a fundamental part of the Go Modules system, introd
     - Go Modules ensure reproducible builds by recording the specific versions of dependencies in the `go.mod` file and verifying them using the `go.sum` file.
 
 In summary, `go mod init` is the command used to initialize a Go module, which is essential for managing dependencies and ensuring the versioning of packages in your Go project. It provides a robust mechanism for reproducible and predictable builds.
+
+
+![thank you](https://res.cloudinary.com/harendra21/image/upload/w_500/golangwithexample/blog-2020-04-07-how_to_say_thank_you_in_business_i69dkn.png)

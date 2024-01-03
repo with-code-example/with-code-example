@@ -194,3 +194,6 @@ We've advanced from the basics of iteration to advanced methods using parallelis
 Remember that practise is the key to mastering as you incorporate these strategies into your Golang projects. Experiment with various scenarios, test the limits of concurrency, and use channels to coordinate smooth communication.
 
 By learning the Golang 'for' loop, you can develop code that is efficient, concurrent, and expressive. May your 'for' loops be in perpetuity efficient, your code expressive, and your programmes a tribute to the strength of Go's simplicity and concurrency as you begin on your Golang adventure.
+
+
+![thank you](https://res.cloudinary.com/harendra21/image/upload/w_500/golangwithexample/blog-2020-04-07-how_to_say_thank_you_in_business_i69dkn.png)
